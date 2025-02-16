@@ -16,8 +16,10 @@
   },
   "homepage": "http://ahmetcanaydemir.github.io/react-advanced-news-ticker/",
   "dependencies": {
+    "core-js": "^3.40.0",
     "prop-types": "^15.7.2",
-    "react": "^16.13.1"
+    "react": "^16.13.1",
+    "regenerator-runtime": "^0.14.1"
   },
   "devDependencies": {
     "@uiw/react-codemirror": "^3.0.1",
